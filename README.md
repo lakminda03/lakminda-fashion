@@ -322,8 +322,3 @@ Important:
 - Use HTTPS in production for auth and payment security
 
 ---
-
-## License
-
-ISC License.
-
