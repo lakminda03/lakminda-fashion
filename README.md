@@ -30,7 +30,6 @@ It includes:
 - [Authentication and Roles](#authentication-and-roles)
 - [Troubleshooting](#troubleshooting)
 - [Deployment Notes](#deployment-notes)
-- [License](#license)
 
 ---
 
