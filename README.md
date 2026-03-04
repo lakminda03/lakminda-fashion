@@ -18,6 +18,10 @@ It includes:
 
 ---
 
+## 🎥 Project Demo
+
+[![Watch the demo](https://img.youtube.com/vi/KqzXb5TcIWk/0.jpg)](https://youtu.be/KqzXb5TcIWk?si=bIwnsOgwbKuki2Db)
+
 ## Table of Contents
 
 - [Features](#features)
