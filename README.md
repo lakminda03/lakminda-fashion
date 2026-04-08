@@ -6,7 +6,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?logo=stripe&logoColor=white)](https://stripe.com/)
-[![License](https://img.shields.io/badge/License-ISC-blue.svg)](#license)
 
 Full-stack fashion storefront built with **MongoDB, Express, React, and Node.js**.
 
